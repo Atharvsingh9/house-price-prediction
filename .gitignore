@@ -1,0 +1,4 @@
+house_price_model.pkl
+house_price_model.gitignore.pkl
+__pycache__/
+.ipynb_checkpoints/
